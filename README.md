@@ -14,6 +14,7 @@
 
 ### Project Overview 
 ---
+This project was focused on analyzing the data of customers for a subscription service by identifying segments and trends.  
 
 ### Data Sources
 ---
