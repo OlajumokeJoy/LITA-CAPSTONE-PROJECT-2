@@ -57,6 +57,8 @@ ORDER BY
   total_customers DESC;
 ```
 
+![17308301512174502959904179562460](https://github.com/user-attachments/assets/9b612607-bc5a-40f9-b9fc-c5c185753b39)
+
 
 ### Results 
 ---
