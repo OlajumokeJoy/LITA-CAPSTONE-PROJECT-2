@@ -37,6 +37,9 @@ Excel file
 ### Data Cleaning and Preparation 
 ---
 
+![17308300632549041690275114795339](https://github.com/user-attachments/assets/34b76131-e06f-43a4-9929-8e9600e0d1f2)
+
+
 ### Exploratory Data Analysis 
 ---
 
