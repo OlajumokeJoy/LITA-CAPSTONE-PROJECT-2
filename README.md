@@ -36,6 +36,10 @@ Excel file
 
 ### Data Cleaning and Preparation 
 ---
+Data cleaning was performed at the initial phase of the analysis. It was carried out using the Microsoft Excel. The actions included;
+ 1. Data loading and inspection
+ 2. Removing duplicate data
+ 3. Formating and cleaning
 
 ![17308300632549041690275114795339](https://github.com/user-attachments/assets/34b76131-e06f-43a4-9929-8e9600e0d1f2)
 
