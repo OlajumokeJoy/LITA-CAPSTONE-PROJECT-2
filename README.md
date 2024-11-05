@@ -47,6 +47,10 @@ Data cleaning was performed at the initial phase of the analysis. It was carried
 ### Exploratory Data Analysis 
 ---
 
+The exploratory data analysis examined the customers' performance based on their region, revenue generated, and subscription type. The following questions were explored during the data analysis phase. They include;
+
+
+
 ### Data Analysis 
 ---
 ```
