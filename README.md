@@ -42,10 +42,20 @@ Excel file
 
 ### Data Analysis 
 ---
+```
+SELECT
+  Region,
+  COUNT (customer_id) AS total customers
+FROM
+  customers
+GROUP BY
+  region
+ORDER BY
+  total_customers DESC;
+```
+
 
 ### Results 
 ---
 
-### Recommendations 
----
 
