@@ -18,7 +18,7 @@ This project was focused on analyzing the data of customers for a subscription s
 
 ### Data Sources
 ---
-Excel file
+Excel file (Customers data)
 
 ### Tools Used
 ---
