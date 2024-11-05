@@ -73,6 +73,8 @@ ORDER BY
 
 ### Results 
 ---
+ - The findings revealed that basic subscription type generated the highest percentage of revenue, and it accounted for 50.01% of the total revenue.
 
+ - 
 ![1730830221272851012269982373616](https://github.com/user-attachments/assets/3fac7930-1da2-402e-9f1d-b1605167593a)
 
